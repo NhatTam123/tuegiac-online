@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tuegiac-landing/static/css/main.8d6a3533.css",
+    "main.js": "/tuegiac-landing/static/js/main.7cec1144.js",
+    "index.html": "/tuegiac-landing/index.html",
+    "main.8d6a3533.css.map": "/tuegiac-landing/static/css/main.8d6a3533.css.map",
+    "main.7cec1144.js.map": "/tuegiac-landing/static/js/main.7cec1144.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d6a3533.css",
+    "static/js/main.7cec1144.js"
+  ]
+}
